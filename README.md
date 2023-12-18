@@ -2,6 +2,7 @@
 This is a repository storing the codes and realted to our self balancing bot.
 We are making use of the tockn library for getting angle values from the MPU6050.
 Below attached are a few photos of our bot, from various angles to dislay the build of out bot.
+
 Front - 
 ![20230815_153742](https://github.com/YJawale/SelfBalancingBot/assets/125810583/3d673aa8-976a-4bf8-906d-565571fc71d3)
 
